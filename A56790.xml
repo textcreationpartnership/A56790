@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Bishops looking-glasse, or, The Clergies prospective vvherein they may cleerly see themselves in their persons, offices, in their lives and conversations : laid open by way of inquisition, by the following discourse / by R. P.</title>
+            <author>R. P.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56790</idno>
+            <idno type="STC">Wing P96</idno>
+            <idno type="STC">ESTC R3364</idno>
+            <idno type="EEBO-CITATION">12578616</idno>
+            <idno type="OCLC">ocm 12578616</idno>
+            <idno type="VID">63666</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56790)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63666)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 249:E134, no 18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Bishops looking-glasse, or, The Clergies prospective vvherein they may cleerly see themselves in their persons, offices, in their lives and conversations : laid open by way of inquisition, by the following discourse / by R. P.</title>
+                  <author>R. P.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coules, and W. Ley ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:63666:1" rendition="simple:additions"/> THE BISHOPS LOOKING-GLASSE, OR THE CLERGIES PROSPECTIVE.</p>
+            <p>VVherein they may cleerely ſee themſelves in their Perſons, Offices, in their Lives and Converſations.</p>
+            <p>
+               <hi>Laid open by way of Inquiſition, by the following Diſcourſe.</hi>
+            </p>
+            <p>By <hi>R. P.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>F. Coules,</hi> and <hi>W. Ley</hi> at Paules Chain, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:63666:2"/>
+            <pb n="1" facs="tcp:63666:2"/>
+            <head>THE BISHOPS Looking-Glaſſe.</head>
+            <p>THere is nothing more neceſſary for Marriners on the vaſt Ocean, than a Proſpective glaſſe, to deſcry their enemies thereby to de<g ref="char:EOLhyphen"/>fend &amp; preſerve themſelvs, looking in ſuch a glaſſe they my per<g ref="char:EOLhyphen"/>ceive things a far off as neare at hand; by which meanes they are the ſooner readier to oppoſe an enemy &amp; prevent danger. Even ſo neceſ<g ref="char:EOLhyphen"/>ſary is this Mirror, this Land-Glaſſe I intend to treate of (a <hi>Parliament)</hi> in this may be diſcovered who are enemies and who friends to the King<g ref="char:EOLhyphen"/>dome, who are friends and who enemies to themſelves: In this Glaſſe may be clearely diſcerned what dangers are neare, and how to avoyd and prevent the ſame. This Looking-Glaſſe I have denominated the <hi>Biſhops Mirror</hi> or <hi>the Clergies Proſpective,</hi> not but that it is neceſſary, yea of abſolute neceſſity for the whole State and body Pollitique of this Kingdome to looke into: But my reaſon why I attribute to it this only denomination is, becauſe theſe Perſons of the Clergy, as well great Pre<g ref="char:EOLhyphen"/>lates as inferious Miniſters, have been the only Enemies of this King<g ref="char:EOLhyphen"/>dome, as well to the Religion, as Civill Laws and Statutes ordained for the Government thereof.</p>
+            <p>In this <hi>Proſpective</hi> they may, if they looke but in it, ſee cleerly them<g ref="char:EOLhyphen"/>ſelves and all their actions; they may by the ſame diſcerne the danger they are in, and what meanes they may beſt uſe for prevention thereof: And in ſpeaking hereof, I ſhall obſerve 2 principall things.</p>
+            <list>
+               <item>1 The beſt way to looke in this <hi>Glaſſe</hi> to diſcerne rightly.</item>
+               <item>2 When having perfect ſight herein, rightly to deſcry how to pre<g ref="char:EOLhyphen"/>ſerve the ſpectators from danger, if they perceive themſelves defective.</item>
+            </list>
+            <p>And firſt of the manner of looking in this Mirror, &amp; that is twofold.</p>
+            <p>Firſt, as the ſpectators are conſtrained to preſent themſelves to the view thereof; and ſecondly, as voluntarily of themſelves looke therein: And
+<pb n="2" facs="tcp:63666:3"/> by this we may perceive the exceeding vertue of this Mirror, in drawing to its view like the Load-ſtone, perſons be they never ſo refractory, never ſo obſtinate, be their hea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts like Iron, this <hi>Glaſſe</hi> if but looked into will make them compliable, and mollifie their cruell and hard-hartedneſſe. And ſecondly, the vertue thereof, in refreſhing, comforting, and curing the wounds, ſores and diſeaſes, the ſpectators perceive themſelves by the ſame to be infected withall.</p>
+            <p n="1">1 And for the firſt, conſtrained inſpection into this <hi>Proſpective,</hi> is a ne<g ref="char:EOLhyphen"/>ceſſary vertue belonging to the ſame, for man by nature given altogether to uncleannes &amp; impurity being infected with all kind of wickednes &amp; impiety, blinded in underſtanding, averſe in will and affection to any thing that is good, unwilling to looke into and examine themſelves, or to be diſcerned and taken notice of by others, thereby nouriſhing and ſuffering their infectious diſeaſes to ſpread and increaſe, not onely in themſelves, to the indangering and haſtening of their perpetuall deſtructions, but is catching to others, and of ſuch a dangerous na<g ref="char:EOLhyphen"/>ture is this ſickneſſe of perverſe and uncleane ſpirits, that when once caught, not eaſily again to be removed or cured by any ordinary meanes, but requires great skill and extraordinary paines to remove and cure the ſame, ſo that this vertue in this
+<hi>Proſpective</hi> is for the reaſons I have allea<g ref="char:EOLhyphen"/>ged, not only neceſſary, but of abſolute neceſſity.</p>
+            <p n="2">2 Another vertue there is in this <hi>Glaſſe,</hi> and that is the ſoveraigne po<g ref="char:EOLhyphen"/>wer and efficacy therof, in curing and remedyingall diſeaſes and infirmi<g ref="char:EOLhyphen"/>ties whatſoever the State is infected withall, no ulcer being never ſo dangerous, no ſore be it never ſo infectious, but viewing it in this Mir<g ref="char:EOLhyphen"/>ror, will receive remedy; no diſcontent, or trouble of mind whatſoe<g ref="char:EOLhyphen"/>ver, of any perſon, of what degree or dignity ſoever, of what function or profeſſion ſoever, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut may receive comfort, &amp; contentment, and be pa<g ref="char:EOLhyphen"/>cified, if they view themſelves in this <hi>Proſpective,</hi> and thus much of the 2 prime and ſoveraigne vertues this <hi>Glaſſe</hi> is attended and indowed with<g ref="char:EOLhyphen"/>all.</p>
+            <p>I come now to p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſecute my intentions touching the right manner of looking into this Mirror, and that as I ſaid is twofold.</p>
+            <p n="1">1 Conſtrained obedience in preſenting themſelves to the view of this
+<hi>Glaſſe,</hi> the ſoveraigne power of this <hi>Mirror</hi> in this particular, I have ſomewhat already touched only, ſerving for proof of the neceſſity of this vertue. I now will handle the vertue it ſelfe, the power and ſoveraignty of this <hi>Proſpective</hi> is ſo great, and ſpatious, that it brings within its cir<g ref="char:EOLhyphen"/>cumference all perſons whatſoever in this Kingdom, from the higheſt to the loweſt, no perſon be he never ſo high in authority, never ſo great in honor and dignity, never ſo well favored and beloved, either of his
+<pb n="3" facs="tcp:63666:3"/> Prince or the People, of never ſo holy a function and profeſſion, be he of never ſo politique and ſubtle a Wit, and Vnderſtanding; be he never ſo private in his actions and deſignes, but will he, nill he, he muſt view himſelfe and be viewed in this
+<hi>Glaſſe,</hi> if he be within the Circuit and Compaſſe thereof: and thus much ſhall ſerve to bee ſpoken of the pow<g ref="char:EOLhyphen"/>er of this <hi>Proſpective.</hi>
+            </p>
+            <p n="2">2 I come to ſpeake of the willing ſpectators that preſent themſelves to the view thereof, in which I obſerve theſe particulars.</p>
+            <p n="1">1 Such perſons as by command from the King preſent themſelves cheer<g ref="char:EOLhyphen"/>fully to his Majeſty with their adviſe and counſels in the ſervice both of their King and Countrey.</p>
+            <p n="2">2 Such perſons as preſent themſelves to the view of this great Coun<g ref="char:EOLhyphen"/>ſell by Petitions and Complaints, wherein they ſet forth their diſeaſes, griefes and infirmities, wherewith they are pained and oppreſſed, not naturally infected withall. The firſt of theſe I will not ſpeake otherwiſe o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, than as the only ſubject of my diſcourſe, upon which the ſecond hath its only dependance, and from and by which it only expects eaſe and re<g ref="char:EOLhyphen"/>dreſſe; and this is the only manner and beſt meanes to diſcover their griefes, and diſeaſes, by their Petitions, Remonſtrances and Complaints, and the ſooneſt way for ſpeedy remedy.</p>
+            <p>And this brings me to the ſecond thing I intimated at the beginning of this Treatiſe, and that is the diſeaſes and infirmities, nay the moſt dange<g ref="char:EOLhyphen"/>rouſeſt wounds in a Common-wealth, that may be diſcovered by this <hi>Glaſſe,</hi> and then the remedies to ſalve and cure the ſame.</p>
+            <p n="1">1 The diſeaſes are many and great that have catched and infected both many and great perſons, and by them caſt abroad and ſpread even over the whole Kingdom, I will only name the chiefeſt and greateſt wounds and ſores of this State, which hath almoſt brought the ſame to deſtru<g ref="char:EOLhyphen"/>ction, the perſons infected herewith, and the Manner of their infecting many others with the ſame plagues.</p>
+            <p>The firſt diſeaſe in this Kingdom, was Innovation in Religion.</p>
+            <p n="2">2 Indeavouring to ſubvert the Laws of this Land.</p>
+            <p n="3">3 To indeavour to overthrow Parliaments, and deſtroy the juſt rights and Priviledges thereof, the ſecureſt and ſafeſt way of Governe<g ref="char:EOLhyphen"/>ment that ever was in this Kingdom,</p>
+            <p n="4">4 Oppreſſion, Injuſtice, and cruell tiranny uſed and exerciſed over the perſons, lives, and eſtates of his Majeſties louing ſubjects, by Superiors, and men in places of Authority.</p>
+            <p n="5">5 Extortion, bribery and the like, uſed in Courts of Iudicature.</p>
+            <p n="6">6 Ship money, Leavies, Taxes, Cuſtomes, and the like illegally leavied upon the ſubject.</p>
+            <p n="7">
+               <pb n="4" facs="tcp:63666:4"/>
+7 And laſtly undermining circumvention, and overburthening the Subjects by unlawfull Grants, Patents, and Leaſes of Offices &amp; almoſt of all Co<g ref="char:cmbAbbrStroke">̄</g>modities of Free trade in this Land: And thus much of the diſeaſes, I come now to the Authors hereof, which have procured this generall infection ſpread throughout the Kingdome; and they I conceive to be of the beſt ſort of men, the greateſt in Honor and Dignity, both Spiritu<g ref="char:EOLhyphen"/>all and Temporall, as well as the Inferiour: As
+1, Biſhops, Deanes, Arch<g ref="char:EOLhyphen"/>deacons, Doctors, Proctors, Ordinaries and other Officers, and men of accompt and authority in the Clergy. 2, Privy Councellors, Peeres, Noblemen, Lords and others following the Court, and have got into their Princes favour. 3, Iudges, and other Officers in places of Iudica<g ref="char:EOLhyphen"/>ture. 4, Pattentees, Grantees, Leſſees and Farmers of Cuſtomes, and the like: Theſe I conceive have been the only authors and producers of all the troubles, miſeries, and diſeaſes of this Kingdome: And now I come to the manner of their increaſing and ſpreading theſe their Plots &amp; dan<g ref="char:EOLhyphen"/>gerous actions over the whole Land; in which I ſhall only ſpeake of the Biſhops and Clergy, this preſent Treatiſe, being only attributed to themſelves and the troubles and diſtempers by them raiſed in this body Pollitique is to be conſidered in three reſpects: 1, In reſpect of their Perſons, in reſpect of their Offices, and in reſpect of their Practiſes, in their Lives and Converſation.</p>
+            <p n="1">1 In reſpect of their Perſons Biſhops; in great authority and power, not only Teachers, but Rulers of the Children of God, Shepheards over the flock of Chriſt; theſe perſons being infected with Pride, Ambition, Hautineſſe of heart, with Popiſh ſuperſtition, Ceremonies, Arminianiſme and the like; corrupt in Doctrine and prophane in Diſcipline; infected with Avarice, Luxury, and all Laciviouſneſſe; puft up with vaine Glory ſelfe eſtimation of their own Merits, Wiſdome, and Learning, with too much confidency, truſting to their own power, and the favour of their Prince, procured by their ſubtle wit and wily practiſes, &amp; upon their Al<g ref="char:EOLhyphen"/>liances with Peeres and other Grandees of this Kingdom: theſe perſons, I ſay, being thus infected, looking into this <hi>Proſpective</hi> may diſcover them<g ref="char:EOLhyphen"/>ſelves and their infirmities, or rather incommodities with which they are attainted,</p>
+            <p n="2">2 I come now in the ſecond places to their Offices, and they are two fold, Spirituall and Temporall; the firſt, they claime to appartaine to the<g ref="char:cmbAbbrStroke">̄</g> of that function <hi>Jure Divino,</hi> and the latter they uſurpe to themſelves un<g ref="char:EOLhyphen"/>der pretence of both Swords, the Sword of the Spirit, and the Sword of the Magiſtrate: By the firſt, they exerciſe Spirituall Iuriſdiction in ſeve<g ref="char:EOLhyphen"/>rall Courts Eccleſiaſticall: In the latter they adminiſter Civill Injuſtice, Iuſtice I would have ſaid, in Courts of common Iudicature. I ſee in the
+<pb n="5" facs="tcp:63666:4"/> firſt part of their uſurped authority Spirituall, they be infected with Bri<g ref="char:EOLhyphen"/>bery deceipt, cruelty, oppreſſion and injuſtice, commanding as they are Rulers in the Church, things not warranted by the Word of God, but al<g ref="char:EOLhyphen"/>together contrary and againſt the ſame; Imagining the inferior Clergy to preach and teach only ſuch things that are delectable to their Palates, agreable to their wils and pleaſures, not the truth but news inventions; inſtruments of the Divell, by him only lead, ruled and ſeduced, to indea<g ref="char:EOLhyphen"/>vour to build up the kingdom of Antichriſt, and hinder the increaſe and propagation of the Goſpel and Kingdom of Chriſt, as ſuperſtition, Popiſh Ceremonies, nay ſuch corrupt and unfound doctrine, which concurres altogether with the doctrin of the Church of <hi>Rome,</hi> binding mens Con<g ref="char:EOLhyphen"/>ſciences to the ſtrict obſervance of their unlawfull commands and inju<g ref="char:EOLhyphen"/>ſtly puniſhing with rigor and ſeverity, all ſuch as in tender Conſcience would not agree or ſubmit to the ſame, and comply with them in their error, degrading of them from the Miniſtery, fining, impriſoning, baniſh<g ref="char:EOLhyphen"/>ing, confiſcating their goods, nay corporall puniſhment, as pillorcing, diſmembring, branding and ſtigmatizing of them and ſuch like cruelties by them exerciſed and uſed over Godly and Zealous Miniſters, cauſing the flight of many hundreds, nay thouſands into Forraine nations and uninhabited and Savage Countryes, to the indangering their lives of themſelves, their wives and children, and the loſſe of all their fortunes to their utter impoveriſhment and deſolation, if God of infinite mercy had not wonderfully preſerved them.</p>
+            <p>And thus much of the diſeaſes wherewith they have infected their u<g ref="char:EOLhyphen"/>ſurped ſpirituall Iuriſdiction, I proceed to their temporall: In this like<g ref="char:EOLhyphen"/>wiſe if they be infected with injuſtice and opreſſion in their places of Ci<g ref="char:EOLhyphen"/>vil Government: to indeavour to ſeduce the Iudges of the Land &amp; other officers pertaining to the Co<g ref="char:cmbAbbrStroke">̄</g>mon-Lawes of this Land in their opinions; and the better to colour their wicked practiſes to procure them, ſet forth in a high degree the Prerogative of the King, his undoubted power and authority over the perſons, lives and eſtates of his Subjects, when he ſhal upon his own pleaſure command the ſame: That all the ſubject hath is his, that the ſubject is but as it were tenant at will of any thing he poſ<g ref="char:EOLhyphen"/>ſeſſeth and that it may be taken away at the pleaſur<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (not of their Lord &amp; lawfull Soveraigne) but at the pleaſure of the high and mighty Prelats, who<g ref="char:cmbAbbrStroke">̄</g> neither King nor Keſar muſt contradict or correct for their inſolen<g ref="char:EOLhyphen"/>cies; I ſay if theſe perſons have infected theſe their Offices uſurped either Spirituall or Temporall, with any or all of theſe dangerous ſores before mentioned, if they looke but in this Chriſtall, either by conſtraint or vo<g ref="char:EOLhyphen"/>luntarily, they may receive cure.</p>
+            <p n="3">3 I come now to the laſt thing I am to ſpeak of concerning this ſubject
+<pb n="6" facs="tcp:63666:5"/> and that is the 3 meanes by theſe perſons Prelats and their adherents uſed to ſpread abroad their venimous intentions, by their actions in their lives and converſations; If therfore they be infected in their lives with ma<g ref="char:EOLhyphen"/>lice, anger, hatred, revenge of &amp; againſt ſuch as are not flexible to their di<g ref="char:EOLhyphen"/>ſpoſitions, &amp; yeelding to their deſires, prophane, wanton, dallying, mo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>king, ſcoffing at the pure and ſincere preaching of the Word of God, revi<g ref="char:EOLhyphen"/>ling and diſdaining the painfull and zealous<g ref="char:punc">▪</g> teachers of the ſame, tolle<g ref="char:EOLhyphen"/>rating, approving, conniving, and wi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cking at<g ref="char:punc">▪</g> nay commanding as w<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> by their Proclamations and Edicts of their owne deviſing and ſetting ſorth, as inſtancing the ſame by their owne examples, uſing recreation, dancing, muſick, playing, drinking, whoring, <hi>&amp;c.</hi> incouraging and ani<g ref="char:EOLhyphen"/>mating wicked and laſcivious perſons in their ungodly ways, placing in the Miniſtry, diſſolute and ſcandalous perſons, voyd of all feare of God, yea of Civill Government of themſelves affable and pliable onely to their Superiors, that do by their evill examples and erroneous doctrines draw more ſoules from God to the Devill than, I verily beleeve, would have fallen away of themſelves, if no teaching had been ſince theſe cor<g ref="char:EOLhyphen"/>ruptions have been admitted in Religion, both in doctrin and diſcipline, I ſay, if they have been infected with theſe foule ulcers and diſeaſes, i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they look into this Mirror, they may receive cure.</p>
+            <p>I come now in a word or two to the meanes and medicinall remedies whereby theſe troubles of the Common-wealth are to bee cured and re<g ref="char:EOLhyphen"/>moved; and they are theſe.</p>
+            <p n="1">1 By wholeſome Laws by the whole King &amp; State made for the re<g ref="char:EOLhyphen"/>ſtraining of the exerciſe and longer uſage of ſuch corrupt doctrin and di<g ref="char:EOLhyphen"/>ſcipline, ſuperſtition and ceremonies introduced and innovated in Reli<g ref="char:EOLhyphen"/>gion by theſe Prelates authors of the ſame.</p>
+            <p n="2">2 For theſe perſons thus defective, penitently to ſubmit themſelves to this ſafe and ſecure way for their cure, and in time leave off their vitious courſes and perverſe actions by them hitherto practized.</p>
+            <p n="3">3 And laſtly, if obſtinatly they refuſe to ſubmit themſelves to this way and meanes for their cure, but ſtill let their corruption and infection in<g ref="char:EOLhyphen"/>creaſe to that height that ordinary meanes cannot cure the ſame, then to cut off theſe as rotten, and altogether unprofitable and dangerous mem<g ref="char:EOLhyphen"/>bers of the Common-wealth, is the ſafeſt way to prevent future trouble by this infection: And thus much for this preſent Diſcourſe, deſiring all things amiſſe in this Kingdom both in Church and State, may by this Chryſtall Mirror be diſcovered and rectified, to the everlaſting peace and tranquillity of his Sacred Majeſty and all his Dominions.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
